@@ -87,7 +87,7 @@ public class linkedList {
 			
 			public Node(T data) {
 				this.data = data;
-			}
+			} 
 		}
 	
 
