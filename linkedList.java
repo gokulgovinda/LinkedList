@@ -53,7 +53,7 @@ public class linkedList {
 				
 				return slow.data;
 			}
-			
+		
 			public static void main(String[] args) {
 				
 				Node<Integer> n1 = new Node<>(10);
